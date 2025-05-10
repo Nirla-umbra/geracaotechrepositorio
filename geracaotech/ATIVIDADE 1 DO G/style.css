@@ -1,0 +1,5 @@
+p {
+    text-rendering: justify;
+    margin: 10 auto;
+    width: 80%;
+}

@@ -1,0 +1,14 @@
+p {
+
+    color:black
+}
+div p {
+    color: pink;
+}
+.segunda-section > p {
+    color: blueviolet;
+}
+
+.primeira section > p {
+    color: blueviolet;
+}
